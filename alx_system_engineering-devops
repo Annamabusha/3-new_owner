@@ -1,0 +1,8 @@
+julien@ubuntu:/tmp/h$ Is -1 total 4
+-rwxrw-r-- 1 julien julein 30 sep 20 1 4:23 3-new_owner
+-re-rw-r-- 1 julien julien 0 sep 20 1 4:18 hello
+jullein@ubuntu:/tmp/h$ sudo ./3-new_owner
+julien@ubuntu:/tmp/h$ Is -1 total 4
+-rwxrw-r-- 1 julien julien 30 sep 20 1 4:23 3-new_owner
+-rw-rw-r-- 1 betty julien 0 sep 1 4:18 hello
+julien@ubuntu:/tmp/h$
